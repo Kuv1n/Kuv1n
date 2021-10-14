@@ -2,7 +2,7 @@
 - 👀 I’m interested in making programs
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on...
-- 📫 How to reach me my email is kevinszigetvari40@gamil.com
+- 📫 How to reach me my email is kevinszigetvari40@gamil.com of in the Facebook: Szigetvári Kevin
 
 <!---
 Kuv1n/Kuv1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
